@@ -11,7 +11,7 @@ package if11_10116494_latihanuts5;
  * Kelas IF-11
  * NIM 10116494
  */
-public class Segitiga extends BangunDatar{
+public class Segitiga implements BangunDatar{
     private int luas,keliling;
     final private int sisiAb,sisiBc,sisiCa;
     final private int alas,tinggi;

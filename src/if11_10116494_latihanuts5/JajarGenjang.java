@@ -11,7 +11,7 @@ package if11_10116494_latihanuts5;
  * KElas IF-11
  * NIM 10116494
  */
-public class JajarGenjang extends BangunDatar{
+public class JajarGenjang implements BangunDatar{
     private int luas,keliling;
     final private int sisiAb,sisiBc,sisiCd,sisiDa;
     final private int alas,tinggi;

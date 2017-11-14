@@ -11,12 +11,7 @@ package if11_10116494_latihanuts5;
  * Kelas IF-11
  * NIM 10116494
  */
-public class BangunDatar {
-    public void hitungLuas(){
-        
-    }
-    
-    public void hitungKeliling(){
-        
-    }
+public interface BangunDatar {
+    public void hitungLuas();
+    public void hitungKeliling();
 }
